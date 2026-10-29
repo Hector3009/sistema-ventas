@@ -1,4 +1,4 @@
-DESCUENTO_MAXIMO = 10
+DESCUENTO_MAXIMO = 15
 
 def calcular_total(precio, descuento):
     if descuento < 0 or descuento > DESCUENTO_MAXIMO:
