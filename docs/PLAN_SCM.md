@@ -34,10 +34,26 @@ Código: commits para registrar cambios; ramas para desarrollarlos; Pull Request
 Una etiqueta no equivale a la aprobación formal de una línea base.
 
 ## 5. Líneas base
-Pendiente.
+Cada línea base incluirá inventario, versiones, referencia Git, evidencia de revisión, responsable y estado de aprobación.
+
+Referencia inicial: LB-VENTAS-001.
+
+Comportamiento esperado: descuento máximo del 10 %.
+
+Estado: referencia técnica; aprobación formal pendiente.
+
+El commit exacto se registrará en el reporte de estado.
 
 ## 6. Librería de configuración
-Pendiente.
+Repositorio: GitHub.
+
+Carpetas: docs/, config/, src/, tests/, reportes/, auditorias/.
+
+Acceso: conforme a los roles autorizados.
+
+Cambios: mediante ramas y revisión de Pull Requests.
+
+Respaldos: se definirán periodicidad, ubicación, responsable y prueba de recuperación. El historial Git no sustituye respaldos.
 
 ## 7. Control de cambios
 Pendiente.
