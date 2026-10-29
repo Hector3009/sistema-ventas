@@ -17,10 +17,21 @@ Pendiente.
 | Asegurador de Calidad | Verificar evidencias y coordinar auditorías. |
 
 ## 3. Identificación de configuración
-Pendiente.
+| ID | Elemento | Ruta |
+|---|---|---|
+| EC-001 | Plan SCM | docs/PLAN_SCM.md |
+| EC-002 | Requisitos | docs/requisitos-descuentos.md |
+| EC-003 | Configuración | config/descuentos.properties |
+| EC-004 | Código | src/descuentos.py |
+
+El Administrador de Configuración actualizará el inventario cuando se creen, cambien o retiren elementos.
 
 ## 4. Control de versiones
-Pendiente.
+Documentos: versión X.Y y estado de elaboración, revisión o aprobación.
+
+Código: commits para registrar cambios; ramas para desarrollarlos; Pull Requests para revisarlos; etiquetas vX.Y.Z para estados técnicos.
+
+Una etiqueta no equivale a la aprobación formal de una línea base.
 
 ## 5. Líneas base
 Pendiente.
