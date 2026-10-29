@@ -68,10 +68,18 @@ Respaldos: se definirán periodicidad, ubicación, responsable y prueba de recup
 Una implementación técnica no significa liberación aprobada.
 
 ## 8. Reportes de estado
-Pendiente.
+Se reportarán inventario, versiones, líneas base, solicitudes, Pull Requests, pruebas, permisos y hallazgos de auditoría.
+
+Cada reporte incluirá evidencia verificable y estado actualizado.
 
 ## 9. Auditorías
-Pendiente.
+Auditoría física: revisar existencia, integridad, identificación y correspondencia de los elementos.
+
+Auditoría funcional: verificar evidencia de requisitos y pruebas.
+
+El Asegurador de Calidad documentará hallazgos y seguimiento.
+
+No se aprobará una línea base sin cumplir criterios definidos.
 
 ## 10. Calendario y herramientas
 Pendiente.
