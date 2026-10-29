@@ -2,12 +2,14 @@
 
 Proyecto: Sistema de Ventas
 
-Versión: 0.1
+Versión: 0.9
 
-Estado: En elaboración
+Estado: Borrador completo para revisión
 
 ## 1. Introducción y alcance
-Pendiente.
+Este plan define reglas para identificar, controlar y verificar la configuración del Sistema de Ventas.
+
+Incluye documentos, código, archivos de configuración, pruebas y registros de cambio.
 
 ## 2. Roles y responsabilidades
 | Rol | Responsabilidad |
@@ -56,13 +58,40 @@ Cambios: mediante ramas y revisión de Pull Requests.
 Respaldos: se definirán periodicidad, ubicación, responsable y prueba de recuperación. El historial Git no sustituye respaldos.
 
 ## 7. Control de cambios
-Pendiente.
+1. Registrar solicitud mediante Issue.
+2. Evaluar impacto y riesgos.
+3. Autorizar o rechazar formalmente.
+4. Planear e implementar en rama.
+5. Verificar requisitos y pruebas.
+6. Revisar mediante Pull Request.
+7. Integrar según criterios aprobados.
+8. Actualizar inventario, reportes y línea base.
+
+Una implementación técnica no significa liberación aprobada.
 
 ## 8. Reportes de estado
-Pendiente.
+Se reportarán inventario, versiones, líneas base, solicitudes, Pull Requests, pruebas, permisos y hallazgos de auditoría.
+
+Cada reporte incluirá evidencia verificable y estado actualizado.
 
 ## 9. Auditorías
-Pendiente.
+Auditoría física: revisar existencia, integridad, identificación y correspondencia de los elementos.
+
+Auditoría funcional: verificar evidencia de requisitos y pruebas.
+
+El Asegurador de Calidad documentará hallazgos y seguimiento.
+
+No se aprobará una línea base sin cumplir criterios definidos.
 
 ## 10. Calendario y herramientas
-Pendiente.
+Inicio: elaborar el plan e identificar elementos.
+
+Desarrollo: registrar versiones y controlar cambios.
+
+Antes de línea base: revisar elementos y evidencias.
+
+Antes de entrega: realizar auditoría.
+
+Cierre: emitir reporte de estado.
+
+Herramientas: GitHub, Issues, ramas, commits y Pull Requests.
