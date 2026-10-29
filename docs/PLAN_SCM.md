@@ -2,12 +2,14 @@
 
 Proyecto: Sistema de Ventas
 
-Versión: 0.1
+Versión: 0.9
 
-Estado: En elaboración
+Estado: Borrador completo para revisión
 
 ## 1. Introducción y alcance
-Pendiente.
+Este plan define reglas para identificar, controlar y verificar la configuración del Sistema de Ventas.
+
+Incluye documentos, código, archivos de configuración, pruebas y registros de cambio.
 
 ## 2. Roles y responsabilidades
 | Rol | Responsabilidad |
@@ -82,4 +84,14 @@ El Asegurador de Calidad documentará hallazgos y seguimiento.
 No se aprobará una línea base sin cumplir criterios definidos.
 
 ## 10. Calendario y herramientas
-Pendiente.
+Inicio: elaborar el plan e identificar elementos.
+
+Desarrollo: registrar versiones y controlar cambios.
+
+Antes de línea base: revisar elementos y evidencias.
+
+Antes de entrega: realizar auditoría.
+
+Cierre: emitir reporte de estado.
+
+Herramientas: GitHub, Issues, ramas, commits y Pull Requests.
