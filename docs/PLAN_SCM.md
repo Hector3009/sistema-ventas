@@ -56,7 +56,16 @@ Cambios: mediante ramas y revisión de Pull Requests.
 Respaldos: se definirán periodicidad, ubicación, responsable y prueba de recuperación. El historial Git no sustituye respaldos.
 
 ## 7. Control de cambios
-Pendiente.
+1. Registrar solicitud mediante Issue.
+2. Evaluar impacto y riesgos.
+3. Autorizar o rechazar formalmente.
+4. Planear e implementar en rama.
+5. Verificar requisitos y pruebas.
+6. Revisar mediante Pull Request.
+7. Integrar según criterios aprobados.
+8. Actualizar inventario, reportes y línea base.
+
+Una implementación técnica no significa liberación aprobada.
 
 ## 8. Reportes de estado
 Pendiente.
